@@ -86,7 +86,10 @@ IDE : VSCODE(Django), Eclipse(e-gov, Spring MVC)
 
 학습은 리소스부족 때문에colab에서 진행하였으며 그 내부에서 라이브러리 충돌을 방지하기 위해 conda가상환경을 세팅하여 시행하였습니다.
 
+
 초기 loss 값 약 9 에서 학습 이후 loss값이 약 2로 감소하였습니다.
+
+
 ![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/f3bf1d0a-e0d6-4db6-8caf-cc66226c43e6)
 
 ![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/0e18e046-72f6-409a-8eb2-a52efc39a4e2)
