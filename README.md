@@ -90,7 +90,8 @@ IDE : VSCODE(Django), Eclipse(e-gov, Spring MVC)
 초기 loss 값 약 9 에서 학습 이후 loss값이 약 2로 감소하였습니다.
 
 
-![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/f3bf1d0a-e0d6-4db6-8caf-cc66226c43e6)
+![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/3b0b5b56-0063-4f3a-9f9c-1503756f5a7e)
+
 
 ![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/0e18e046-72f6-409a-8eb2-a52efc39a4e2)
 
