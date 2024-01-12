@@ -56,20 +56,23 @@ IDE : VSCODE(Django), Eclipse(e-gov, Spring MVC)
 
 
 ### <메인페이지>
-![image](https://github.com/KimYuKyeong00/Team4/assets/152937847/5b971acb-f7e8-4bd0-9983-37aa288917eb)
+![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/ed686134-ffef-48b5-bf30-9e1a1e61bb87)
+
 
 -----
 
 ### <로그인 관련>
 - 회원 가입시 이메일 인증을 구현해두었습니다.
-![image](https://github.com/KimYuKyeong00/Team4/assets/152937847/c5b616cc-aad1-42bb-af72-801a3f6c22e7)
+![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/13d1e5de-90fc-497a-91a7-5a85536c12ba)
+
 
 
 ----
 
 ### <문의게시판>
 - 기본적으로 자유게시판의 형식입니다
-![image](https://github.com/KimYuKyeong00/Team4/assets/152937847/489b48cb-5718-471d-8595-aeb9f6148980)
+![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/030078ea-9d9b-4bb1-a05c-b345fd0f5558)
+![image](https://github.com/KimYuKyeong00/Team4_Spring/assets/152937847/428eb779-0c6f-4e03-9167-2cfd613fd7d8)
 
 
 ----
